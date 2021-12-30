@@ -1,49 +1,63 @@
 ---
-title: Michael Bauer
-role: Professor of Financial Economics
-bio: My research interests are monetary economics, asset pricing, and time
-  series econometrics.
+title: Michael D. Bauer
+role: Professor of Economics
+bio: My research areas are monetary economics, financial economics and climate finance.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Monetary Economics
+  - Financial Economics
+  - Climate Finance
+  - Time Series Econometrics
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:michael.d.bauer@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/michaelbauer_hh
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=axcAtmoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mdbauer
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/michael-bauer-92b114/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universität Hamburg
+    url: https://www.uni-hamburg.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Economics
+      institution: University of California, San Diego
+      year: 2010
+    - course: M.A. in Quant. Economics and Finance
+      institution: University of St. Gallen, Switzerland
+      year: 2005
+    - course: B.A. in Economics
+      institution: University of St. Gallen, Switzerland
+      year: 2003
+email: "michael.d.bauer@gmail.com"
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my website! I am a Professor of Economics at [Universität
+Hamburg](https://www.uni-hamburg.de/), and a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
+[IMFS](https://www.imfs-frankfurt.de/en.html). Previously, I
+was a central bank economist at the [Federal Reserve Bank
+of San Francisco](https://frbsf.org/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on the role of financial markets for the macroeconomy,
+monetary policy, and climate change. I am
+particularly interested in understanding the effects of monetary policy on
+the yield curve and asset prices---including monetary policy surprises, forward guidance,
+monetary policy communication, quantitative easing, monetary policy uncertainty,
+and risks to the economic outlook. More recently I've
+been working on social discount rates, the social cost of carbon and climate
+finance. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[CV](files/cv_mbauer.pdf) :small_blue_diamond: [Uni Hamburg Website](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/bauer.html) :small_blue_diamond: 
+[Google Scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:
+[RePeC](https://ideas.repec.org/f/pba824.html) :small_blue_diamond:
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1037079)
