@@ -38,11 +38,11 @@ appointment_url: ''
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -120,9 +120,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  provider: 'mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 14
 marketing:
   google_analytics: ''
   google_tag_manager: ''
