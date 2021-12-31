@@ -30,19 +30,8 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://www.ijcb.org/journal/ijcb15q2a1.pdf"
-url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2014-09.pdf"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Article", url = "http://www.ijcb.org/journal/ijcb15q2a1.pdf"},
+{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2014-09.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

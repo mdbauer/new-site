@@ -3,6 +3,10 @@ title: 'Teaching'
 author: Michael Bauer
 date: '2021-02-14'
 slug: teaching
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["0", "0", "0", "0"]  
 ---
 
 ### Advanced Macroeconomics, M.Sc. Course, Universität Hamburg, Winter 2020, Winter 2021

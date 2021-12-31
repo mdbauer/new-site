@@ -17,32 +17,14 @@ publication_short = ""
 abstract = "We show that conventional dynamic term structure models (DTSMs) estimated on recent U.S. data severely violate the zero lower bound (ZLB) on nominal interest rates and deliver poor forecasts of future short rates. In contrast, shadow-rate DTSMs account for the ZLB by construction, capture the resulting distributional asymmetry of future short rates, and achieve good forecast performance. These models provide more accurate estimates of the most likely path for future monetary policy—including the timing of policy liftoff from the ZLB and the pace of subsequent policy tightening. We also demonstrate the benefits of including macroeconomic factors in a shadow-rate DTSM when yields are constrained near the ZLB."
 abstract_short = ""
 
-# Featured image thumbnail (optional)
-image_preview = ""
-
 # Is this a selected publication? (true/false)
 selected = false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
 # Links (optional).
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12338/full"
-url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"
-url_code = "/files/bauer_rudebusch_zlb_replication.zip"
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Shadow rates", url = "https://www.frbsf.org/economic-research/economists/shadow_rates.csv"}]
+links = [{name = "Article", url = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12338/full"},
+{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"},
+{name = "Code & Data", url = "/files/bauer_rudebusch_zlb_replication.zip"},
+{name = "Shadow Rates", url = "https://www.frbsf.org/economic-research/economists/shadow_rates.csv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

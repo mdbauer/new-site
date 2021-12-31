@@ -28,21 +28,13 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 projects = []
 
-# Links (optional).
-url_pdf = "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"
-url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"
-url_code = "/files/bauer_rrp_replication.zip"
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
+# Links
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Appendix", url = "https://www.frbsf.org/economic-research/files/rrp_appendix.pdf"}]
+links = [{name = "Article", url = "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"},
+{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"},
+{name = "Online Appendix", url = "https://www.frbsf.org/economic-research/files/rrp_appendix.pdf"}, 
+{name = "Code & Data", url = "/files/bauer_rrp_replication.zip"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -57,3 +49,15 @@ image = ""
 caption = ""
 
 +++
+
+links:
+- name: Article
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.20171822"
+- name: Working Paper
+  url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
+- name: Online Appendix
+  url: "files/br_trends_online_appendix.pdf"
+- name: Code & Data
+  url: "files/trends_replication.zip"
+
+---

@@ -7,7 +7,7 @@ date: 2021-12-16
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "*National Bureau of Economic Research Working Paper*"
+publication: "NBER Working Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.

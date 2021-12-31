@@ -23,26 +23,9 @@ image_preview = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
 # Links (optional).
-url_pdf = "http://www.sciencedirect.com/science/article/pii/S0261560614000047"
-url_preprint = "https://www.frbsf.org/economic-research/files/wp12-12bk.pdf"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Article", url = "http://www.sciencedirect.com/science/article/pii/S0261560614000047"},
+{name = "Working Paper", url = "https://www.frbsf.org/economic-research/files/wp12-12bk.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
