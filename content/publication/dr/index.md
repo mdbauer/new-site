@@ -20,5 +20,10 @@ links:
   url: "https://www.frbsf.org/economic-research/files/wp2020-25.pdf"
 - name: Online Appendix
   url: "files/sdr_appendix.pdf"
-
+- name: Code & Data
+  url: "files/sdr_replication.zip"
+- name: r* estimates
+  url: "files/sdr/rstar.csv"
+- name: SDRs
+  url: "files/sdr/sdrs.csv"
 ---
