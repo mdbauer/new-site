@@ -7,7 +7,7 @@ date: 2021-12-16
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "NBER Working Paper"
+publication: "Working Paper, revise-and-resubmit at *Journal of Finance*"
 publication_short: ""
 
 # Abstract and optional shortened version.

@@ -15,12 +15,14 @@ design:
   
 ---
 
-A Reassessment of Monetary Policy Surprises and High-Frequency Identification  
-with Eric Swanson  
-prepared for *2022 NBER Macro Annual Conference*.
-
 Perceptions About Monetary Policy  
 with Carolin Pflueger and Adi Sunderam.
+
+The Risk-Taking Channel of Monetary Policy: New Evidence from Financial Markets  
+with Ben Bernanke and Eric Milstein.
+
+Climate Policy Curves  
+with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
 
 The Pricing of Climate Risks in Bond and Stock Markets  
 with Daniel Huber and Ole Wilms.
