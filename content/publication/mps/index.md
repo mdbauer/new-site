@@ -18,8 +18,12 @@ abstract: "High-frequency changes in interest rates around FOMC announcements ar
 links:
 - name: PDF
   url: "files/mps.pdf"
+- name: NBER Working Paper
+  url: "https://www.nber.org/papers/w29939"
 - name: CEPR Discussion Paper
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17116"
 - name: Conference Webseite
   url: "https://www.nber.org/conferences/37th-annual-conference-macroeconomics-2022"
+- name: Data FOMC Announcements
+  url: "files/FOMC_Bauer_Swanson.xlsx"
 ---
