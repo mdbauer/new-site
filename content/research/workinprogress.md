@@ -15,9 +15,6 @@ design:
   
 ---
 
-Perceptions About Monetary Policy  
-with Carolin Pflueger and Adi Sunderam.
-
 The Risk-Taking Channel of Monetary Policy: New Evidence from Financial Markets  
 with Ben Bernanke and Eric Milstein.
 

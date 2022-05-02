@@ -23,12 +23,12 @@ with Eric Swanson. Revise-and-resubmit at ***American Economic Review***.
 **[Interest Rate Skewness and Biased Beliefs](publication/skewness)**  
 with Mikhail Chernov. Revise-and-resubmit at ***Journal of Finance***.
 
+**[Perceptions about Monetary Policy](publication/rules)**  
+with Carolin Pflueger and Adi Sunderam.
+
 **The Risk-Taking Channel of Monetary Policy: New Evidence from Financial Markets**  
 with Ben Bernanke and Eric Milstein.  
 Paper prepared for the ***Journal of Economic Perspectives***.
-
-**Perceptions about Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam.
 
 **Climate Policy Curves**  
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
