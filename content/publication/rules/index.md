@@ -3,19 +3,21 @@
 
 title: "Perceptions about Monetary Policy"
 authors: ["Michael D. Bauer", "Carolin E. Pflueger", "Adi Sunderam"]
-date: 2022-05-02
+date: 2022-09-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working paper"
+publication: "Working Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.
-abstract: "We estimate time-varying perceptions about the Fed's monetary policy rule from cross-sectional survey data and document systematic shifts in the perceived rule that are relevant for both monetary policy and asset pricing. First, the perceived reaction coefficient to the output gap varies over the business cycle, consistent with a cycle of quick rate cuts but gradual tightenings. Second, this variation in the perceived rule explains changes in the sensitivity of interest rates to macroeconomic announcements. Third, high-frequency monetary policy surprises lead to updates in beliefs about the policy rule that depend on the state of the business cycle and are consistent with the predictions of rational learning. Fourth, when monetary policy is perceived to be more responsive to real activity, risk premia on long-term Treasury bonds are low, consistent with standard asset pricing logic. Our findings can explain several empirical puzzles, such as systematic forecast errors about short-term interest rates and the decoupling of long-term rates during tightening cycles."
+abstract: "We estimate perceptions about the Fed's monetary policy rule from micro data on professional forecasters. The perceived rule varies significantly over time, with important consequences for monetary policy and bond markets. Over the monetary policy cycle, easings are perceived to be quick and surprising, while tightenings are perceived to be gradual and data-dependent. Consistent with the idea that forecasters learn about the policy rule from policy decisions, the perceived monetary policy rule responds to high-frequency monetary policy surprises. Variation in the perceived rule impacts financial markets, explaining changes in the sensitivity of interest rates to macroeconomic announcements and affecting risk premia on long-term Treasury bonds. It also helps explain forecast errors for the future federal funds rate. We interpret these findings through the lens of a model with forecaster heterogeneity and learning from observed policy decisions."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: PDF
   url: "files/bps_rules.pdf"
+- name: NBER Working Paper
+  url: "https://www.nber.org/papers/w30480"
 ---

@@ -3,11 +3,11 @@
 
 title: "Interest Rate Skewness and Biased Beliefs"
 authors: ["Michael D. Bauer", "Mikhail Chernov"]
-date: 2021-12-16
+date: 2022-09-28
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper, revise-and-resubmit at *Journal of Finance*"
+publication: "Working Paper, revise-and-resubmit *Journal of Finance*"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -17,9 +17,9 @@ abstract: "The conditional skewness of Treasury yields is an important indicator
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: PDF
-  url: "files/BC_Skew.pdf"
+  url: "files/bc_skew.pdf"
 - name: NBER Working Paper
   url: "https://www.nber.org/papers/w28954"
 - name: CEPR Discussion Paper
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16274"
+  url: "https://cepr.org/publications/dp16274"
 ---

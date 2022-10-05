@@ -46,7 +46,7 @@ Welcome to my website! I am a Professor of Economics at [Universität
 Hamburg](https://www.uni-hamburg.de/), and a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
 [IMFS](https://www.imfs-frankfurt.de/en.html). Previously, I
 was a central bank economist at the [Federal Reserve Bank
-of San Francisco](https://frbsf.org/).
+of San Francisco](https://frbsf.org/), where I am currently on leave.
 
 My research focuses on the role of financial markets for the macroeconomy,
 monetary policy, and climate change. I am

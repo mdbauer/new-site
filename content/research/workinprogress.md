@@ -15,11 +15,8 @@ design:
   
 ---
 
-The Risk-Taking Channel of Monetary Policy: New Evidence from Financial Markets  
-with Ben Bernanke and Eric Milstein.
-
-Climate Policy Curves  
+**Climate Policy Curves**  
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
 
-The Pricing of Climate Risks in Bond and Stock Markets  
-with Daniel Huber and Ole Wilms.
+**Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
+with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
