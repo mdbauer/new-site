@@ -14,7 +14,7 @@ abstract: "Social discount rates (SDRs) are crucial for evaluating the costs of 
 
 # Custom links
 links:
-- name: REStat Preprint
+- name: Preprint
   url: "https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01109/107405/The-Rising-Cost-of-Climate-Change-Evidence-from"
 - name: FRBSF Working Paper
   url: "https://www.frbsf.org/economic-research/files/wp2020-25.pdf"

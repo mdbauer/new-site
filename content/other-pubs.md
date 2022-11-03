@@ -16,6 +16,9 @@ with James Hamilton, VoxEU, July 7, 2017.
 
 ### SF Fed Economic Letters
 
+[Current Recession Risk According to the Yield Curve](https://www.frbsf.org/economic-research/publications/economic-letter/2022/may/current-recession-risk-according-to-yield-curve/),
+with Thomas Mertens, May 9, 2022.
+
 [Climate Change Costs Rise as Interest Rates
 Fall](https://www.frbsf.org/economic-research/publications/economic-letter/2021/october/climate-change-costs-rise-as-interest-rates-fall/),
 with Glenn Rudebusch, October 20, 2021.

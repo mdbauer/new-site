@@ -1,6 +1,6 @@
 ---
 title: "Market-Based Monetary Policy Uncertainty"
-date: 2021-11-04
+date: 2022-05-02
 draft: false
 featured: true
 authors: ["Michael D. Bauer", "Aeimit Lakdawala", "Philippe Mueller"]
@@ -14,8 +14,8 @@ abstract: "Uncertainty about future policy rates plays a crucial role for the tr
 
 # Custom links
 links:
-- name: EJ Preprint
-  url: "https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab086/6420241"
+- name: Article
+  url: "https://academic.oup.com/ej/article/132/644/1290/6420241"
 - name: PDF
   url: "files/mpu.pdf"
 - name: FRBSF Working Paper
