@@ -36,5 +36,5 @@ with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, November
 **Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
 with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
 
-**How to Identify Green Stocks? Event Studies of Climate Policy Announcements**  
+**Identifying Green Stocks using Climate Policy Announcements**  
 with Eric Offner and Glenn Rudebusch.
