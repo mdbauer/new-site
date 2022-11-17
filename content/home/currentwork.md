@@ -29,8 +29,12 @@ with Carolin Pflueger and Adi Sunderam, September 2022.
 **[Monetary Policy, Risk-Taking, and the Macroeconomy](publication/risk)**  
 with Ben Bernanke and Eric Milstein, July 2022, prepared for the ***Journal of Economic Perspectives***.
 
-**Climate Policy Curves**  
-with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
+**[Climate Policy Curves: Linking Policy Choices to Climate Outcomes](publication/cpc)**  
+with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, November
+2022, working paper. 
 
 **Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
 with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
+
+**How to Identify Green Stocks? Event Studies of Climate Policy Announcements**  
+with Eric Offner and Glenn Rudebusch.

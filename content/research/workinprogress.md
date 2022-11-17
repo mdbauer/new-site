@@ -15,8 +15,8 @@ design:
   
 ---
 
-**Climate Policy Curves**  
-with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
-
 **Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
 with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
+
+**What's Green in a Stock? Event Studies of Climate Policy Announcements**  
+with Eric Offner and Glenn Rudebusch.
