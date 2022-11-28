@@ -1,7 +1,7 @@
 (TeX-add-style-hook
- "zlb"
+ "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "bauer-rudebusch-zlb"))
+    "bauer-rudebusch-sdr"))
  :bibtex)
 

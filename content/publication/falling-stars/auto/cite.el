@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "falling-stars"
+ "cite"
  (lambda ()
    (LaTeX-add-bibitems
     "bauer-rudebusch-falling-stars"))

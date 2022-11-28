@@ -16,4 +16,6 @@ abstract: "The extent of future climate change is a policy choice. Using an inte
 links:
 - name: PDF
   url: "files/cpc.pdf"
+- name: "CEPR Discussion Paper"
+  url: "https://cepr.org/publications/dp17703"
 ---

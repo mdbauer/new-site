@@ -1,7 +1,7 @@
 (TeX-add-style-hook
- "inflation-news"
+ "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "bauer-inflation-news"))
+    "bauer-hamilton"))
  :bibtex)
 

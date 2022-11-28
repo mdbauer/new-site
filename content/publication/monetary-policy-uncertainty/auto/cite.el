@@ -1,7 +1,7 @@
 (TeX-add-style-hook
- "rrp"
+ "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "bauer-rrp"))
+    "bauer-lakdawala-mueller"))
  :bibtex)
 

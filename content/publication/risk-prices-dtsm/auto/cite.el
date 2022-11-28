@@ -1,7 +1,7 @@
 (TeX-add-style-hook
- "monetary-policy-uncertainty"
+ "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "bauer-lakdawala-mueller"))
+    "bauer-rrp"))
  :bibtex)
 
