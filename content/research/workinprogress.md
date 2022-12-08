@@ -20,3 +20,7 @@ with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
 
 **Identifying Green Stocks using Climate Policy Announcements**  
 with Eric Offner and Glenn Rudebusch.
+
+**Changes in the Green Premium in Corporate and Sovereign Bond Markets**  
+with Kerstin Lopatta, Thomas Tammen, and Ole Wilms.
+

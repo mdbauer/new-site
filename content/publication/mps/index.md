@@ -3,11 +3,12 @@
 
 title: "A Reassessment of Monetary Policy Surprises and High-Frequency Identification"
 authors: ["Michael D. Bauer", "Eric T. Swanson"]
-date: 2022-03-15
-publication_types: ["3"]
+date: 2022-05-13
+featured: true
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper, prepared for *2022 NBER Macro Annual Conference*"
+publication: "Forthcoming *2022 NBER Macroeconomic Annual*"
 publication_short: ""
 
 # Abstract and optional shortened version.
