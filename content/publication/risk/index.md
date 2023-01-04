@@ -6,7 +6,7 @@ featured: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Conditionally accepted *Journal of Economic Perspectives*"
+publication: "Forthcoming *Journal of Economic Perspectives*"
 
 # Abstract and optional shortened version.
 abstract: 'This paper provides new evidence for the risk-taking channel of monetary policy, using a new index of risk appetite, event-study analysis, and an SVAR with two external instruments. We document large effects of monetary policy on financial markets and the macroeconomy that are transmitted through changes in risk appetite and risk-taking.'
