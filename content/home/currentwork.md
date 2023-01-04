@@ -15,9 +15,6 @@ design:
   
 ---
 
-**[Interest Rate Skewness and Biased Beliefs](publication/skewness)**  
-with Mikhail Chernov, September 2022, revise-and-resubmit ***Journal of Finance***.
-
 **[Perceptions about Monetary Policy](publication/rules)**  
 with Carolin Pflueger and Adi Sunderam, NBER Working Paper, September 2022.
 

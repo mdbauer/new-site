@@ -3,11 +3,11 @@
 
 title: "Interest Rate Skewness and Biased Beliefs"
 authors: ["Michael D. Bauer", "Mikhail Chernov"]
-date: 2022-09-28
-publication_types: ["3"]
+date: 2022-12-29
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper, revise-and-resubmit *Journal of Finance*"
+publication: "Forthcoming *Journal of Finance*"
 publication_short: ""
 
 # Abstract and optional shortened version.
