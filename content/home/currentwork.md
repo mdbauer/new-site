@@ -11,12 +11,12 @@ design:
   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "0", "0"]  
+    padding: ["20px", "0", "20px", "0"]  
   
 ---
 
 **[Perceptions about Monetary Policy](publication/rules)**  
-with Carolin Pflueger and Adi Sunderam, NBER Working Paper, September 2022.
+with Carolin Pflueger and Adi Sunderam, NBER Working Paper, December 2022.
 
 **[Climate Policy Curves: Linking Policy Choices to Climate Outcomes](publication/cpc)**  
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
