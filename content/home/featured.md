@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: ""
+    publication_type: "2"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
@@ -37,3 +37,4 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]  
 ---
+

@@ -4,6 +4,7 @@
 title: "Climate Policy Curves: Linking Policy Choices to Climate Outcomes"
 authors: ["Martin C. Hänsel", "Michael D. Bauer", "Moritz A. Drupp", "Gernot Wagner", "Glenn D. Rudebusch"]
 date: 2022-11-17
+featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.

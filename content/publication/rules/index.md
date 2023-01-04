@@ -4,6 +4,7 @@
 title: "Perceptions about Monetary Policy"
 authors: ["Michael D. Bauer", "Carolin E. Pflueger", "Adi Sunderam"]
 date: 2022-12-16
+featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
@@ -15,6 +16,7 @@ abstract: "We estimate perceptions about the Fed's monetary policy rule from pan
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
+
 links:
 - name: PDF
   url: "files/bps_rules.pdf"
