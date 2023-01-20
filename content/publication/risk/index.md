@@ -9,7 +9,7 @@ publication_types: ["2"]
 publication: "Forthcoming *Journal of Economic Perspectives*"
 
 # Abstract and optional shortened version.
-abstract: 'This paper provides new evidence for the risk-taking channel of monetary policy, using a new index of risk appetite, event-study analysis, and an SVAR with two external instruments. We document large effects of monetary policy on financial markets and the macroeconomy that are transmitted through changes in risk appetite and risk-taking.'
+abstract: 'Monetary policy affects financial markets and the broader economy in part by changing the risk appetite of investors. This article provides new evidence for this so-called risk-taking channel of monetary policy by revisiting and extending event-study analysis of Federal Open Market Committee announcements. We document significant effects of unexpected monetary policy changes on risk indicators drawn from equity, fixed-income, credit, and foreign exchange markets. We develop a new index of risk appetite based on the common component of these indicators. Surprise monetary easing leads to strong and persistent increases in our index, and vice versa for tightening surprises, consistent with the view that monetary policy affects asset prices in large part through its effects on risk appetite. We discuss the implications of the risk-taking channel for monetary policy transmission, optimal monetary policy, and financial stability.'
 
 links:
 - name: PDF
