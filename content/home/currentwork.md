@@ -22,11 +22,8 @@ with Carolin Pflueger and Adi Sunderam, NBER Working Paper, December 2022.
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
 Discussion Paper, November 2022.
 
-**Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
-with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
-
 **Identifying Green Stocks using Climate Policy Announcements**  
 with Eric Offner and Glenn Rudebusch.
 
-**Changes in the Green Premium in Corporate and Sovereign Bond Markets**  
+**Changes in the Green Bond Premium**  
 with Kerstin Lopatta, Thomas Tammen, and Ole Wilms.
