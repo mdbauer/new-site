@@ -21,9 +21,9 @@ links:
   url: "https://www.aeaweb.org/articles?id=10.1257/aer.20171822"
 - name: Working Paper
   url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
+- name: Replication Package
+  url: https://www.openicpsr.org/openicpsr/project/115622/version/V1/view
 - name: Online Appendix
-  url: "files/br_trends_online_appendix.pdf"
-- name: Code & Data
-  url: "files/trends_replication.zip"
+  url: https://www.aeaweb.org/content/file?id=11908
 
 ---
