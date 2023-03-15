@@ -18,5 +18,6 @@ links:
   url: https://www.aeaweb.org/content/file?id=18158
 - name: Replication Package
   url: https://www.openicpsr.org/openicpsr/project/183829/version/V1/view
-  
+- name: Risk Index
+  url: files/risk_index.xlsx
 ---
