@@ -18,8 +18,6 @@ links:
   url: "https://academic.oup.com/ej/article/132/644/1290/6420241"
 - name: PDF
   url: "files/mpu.pdf"
-- name: FRBSF Working Paper
-  url: "https://www.frbsf.org/economic-research/files/wp2019-12.pdf"
 - name: Code and Data
   url: "files/mpu_replication_package.zip"
 - name: Daily uncertainty measure

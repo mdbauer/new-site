@@ -6,7 +6,6 @@ interests:
   - Monetary Economics
   - Financial Economics
   - Climate Finance
-  - Time Series Econometrics
 social:
   - icon: envelope
     icon_pack: fas
