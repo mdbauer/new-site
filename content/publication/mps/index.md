@@ -3,12 +3,12 @@
 
 title: "A Reassessment of Monetary Policy Surprises and High-Frequency Identification"
 authors: ["Michael D. Bauer", "Eric T. Swanson"]
-date: 2022-05-13
+date: 2023-05-22
 featured: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Forthcoming *2022 NBER Macroeconomic Annual*"
+publication: "*NBER Macroeconomics Annual*"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -17,12 +17,10 @@ abstract: "High-frequency changes in interest rates around FOMC announcements ar
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Article
+  url: "https://www.journals.uchicago.edu/doi/10.1086/723574"
 - name: PDF
   url: "files/mps.pdf"
-- name: NBER Working Paper
-  url: "https://www.nber.org/papers/w29939"
-- name: CEPR Discussion Paper
-  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17116"
 - name: Conference Webseite
   url: "https://www.nber.org/conferences/37th-annual-conference-macroeconomics-2022"
 - name: Data FOMC Announcements

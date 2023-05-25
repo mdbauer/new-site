@@ -14,10 +14,10 @@ abstract: 'Regressions of private-sector macroeconomic forecast revisions on mon
 
 # Custom links
 links:
-- name: PDF
-  url: "files/fedinfo.pdf"
 - name: Article
   url: "https://www.aeaweb.org/articles?id=10.1257/aer.20201220"
+- name: PDF
+  url: "files/fedinfo.pdf"
 - name: Online Appendix
   url: "https://www.aeaweb.org/content/file?id=18258"
 - name: Replication Package
