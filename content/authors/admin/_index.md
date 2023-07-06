@@ -1,10 +1,10 @@
 ---
 title: Michael D. Bauer
-role: Professor of Economics
-bio: My research areas are monetary economics, financial economics and climate finance.
+role: Senior Research Advisor
+bio: My research areas are monetary economics, asset pricing and climate finance.
 interests:
   - Monetary Economics
-  - Financial Economics
+  - Asset Pricing
   - Climate Finance
 social:
   - icon: envelope
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/michael-bauer-92b114/
 organizations:
-  - name: Universität Hamburg
-    url: https://www.uni-hamburg.de/
+  - name: Federal Reserve Bank of San Francisco
+    url: https://www.frbsf.org/
 education:
   courses:
     - course: Ph.D. in Economics
@@ -41,10 +41,8 @@ superuser: true
 highlight_name: true
 ---
 
-Welcome to my website! I am a Professor of Economics at [Universität
-Hamburg](https://www.uni-hamburg.de/), and a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
-[IMFS](https://www.imfs-frankfurt.de/en.html). I am currently on leave from the [Federal Reserve Bank
-of San Francisco](https://frbsf.org/).
+Welcome to my website! I am a research economist at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/), which is part of the Federal Reserve System, the central bank of the United States. In addition, I am a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
+[IMFS](https://www.imfs-frankfurt.de/en.html). I am currently on leave from the [University of Hamburg](https://www.uni-hamburg.de/).
 
 My research focuses on the role of financial markets for the macroeconomy,
 monetary policy, and climate change. I am
@@ -55,9 +53,7 @@ and risks to the economic outlook. More recently I've
 been working on social discount rates, the social cost of carbon and climate
 finance. 
 
-[CV](files/cv_mbauer.pdf) :small_blue_diamond: [Uni Hamburg
-Website](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/bauer.html)
-:small_blue_diamond: [SF Fed Website](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: 
+[CV](files/cv_mbauer.pdf) :small_blue_diamond: [Fed Website](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: 
 [Google Scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:
 [Twitter](https://twitter.com/michaelbauer_hh) :small_blue_diamond:
 [LinkedIn](https://www.linkedin.com/in/michael-bauer-92b114/) :small_blue_diamond:
