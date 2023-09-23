@@ -15,6 +15,10 @@ design:
   
 ---
 
+
+**[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
+with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
+
 **[Perceptions about Monetary Policy](publication/rules)**  
 with Carolin Pflueger and Adi Sunderam, NBER Working Paper, December 2022.
 
@@ -22,8 +26,15 @@ with Carolin Pflueger and Adi Sunderam, NBER Working Paper, December 2022.
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
 Discussion Paper, November 2022.
 
-**Identifying Green Stocks using Climate Policy Announcements**  
-with Eric Offner and Glenn Rudebusch.
+**Cross-Sectional Skewness in Survey Forecasts**  
+with Mikhail Chernov
+
+**Risk Appetite and the Monetary Transmission**  
+with Maik Schmeling and Andreas Schrimpf
+
+**The Financial Market Response to Green Firm Announcements**  
+with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
 **Changes in the Green Bond Premium**  
-with Kerstin Lopatta, Thomas Tammen, and Ole Wilms.
+with Kerstin Lopatta, Thomas Tammen, and Ole Wilms
+
