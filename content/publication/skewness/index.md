@@ -21,8 +21,14 @@ links:
   url: "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13276"
 - name: PDF
   url: "files/bc_skew.pdf"
+- name: Online Appendix
+  url: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13276&file=jofi13276-sup-0001-InternetAppendix.pdf"
 - name: NBER Working Paper
   url: "https://www.nber.org/papers/w28954"
 - name: CEPR Discussion Paper
   url: "https://cepr.org/publications/dp16274"
+- name: Code & Data
+  url: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13276&file=jofi13276-sup-0002-ReplicationCode.zip"
+- name: ISK series
+  url: "files/isk.xlsx"
 ---
