@@ -27,6 +27,8 @@ abstract: "The Inflation Reduction Act of 2022 (IRA) represents the largest clim
 links:
 - name: PDF
   url: "files/ira.pdf"
+- name: FRBSF WP
+  url: "https://www.frbsf.org/economic-research/publications/working-papers/2023/30/"
 - name: Brookings WP
   url: "https://www.brookings.edu/articles/the-effect-of-u-s-climate-policy-on-financial-markets-an-event-study-of-the-inflation-reduction-act/"
 ---
