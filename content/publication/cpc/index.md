@@ -17,7 +17,7 @@ abstract: "The extent of future climate change is a policy choice. Using an inte
 links:
 - name: PDF
   url: "files/cpc.pdf"
-- name: "Brookings WP"
+- name: "Brookings Working Paper"
   url: "https://www.brookings.edu/research/climate-policy-curves/"
 - name: "CEPR Discussion Paper"
   url: "https://cepr.org/publications/dp17703"
