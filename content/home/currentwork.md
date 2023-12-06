@@ -17,7 +17,7 @@ design:
 
 
 **[Perceptions about Monetary Policy](publication/rules)**  
-with Carolin Pflueger and Adi Sunderam, FRBSF Working Paper, October 2023, <span style="color:red">*new version!* </span>
+with Carolin Pflueger and Adi Sunderam, revise and resubmit, *Quarterly Journal of Economics*.
 
 **[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
 with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
