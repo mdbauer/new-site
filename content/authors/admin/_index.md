@@ -1,10 +1,10 @@
 ---
 title: Michael D. Bauer
 role: Senior Research Advisor
-bio: My research areas are monetary economics, asset pricing and climate finance.
+bio: My research areas are monetary economics, macro-finance, and climate finance.
 interests:
   - Monetary Economics
-  - Asset Pricing
+  - Macro-Finance
   - Climate Finance
 social:
   - icon: envelope
@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Welcome to my website! I am a research economist at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/), which is part of the Federal Reserve System, the central bank of the United States. In addition, I am a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
+Welcome to my website! I am a research economist at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) studying monetary policy, macroeconomics and financial markets. In addition, I am a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
 [IMFS](https://www.imfs-frankfurt.de/en.html). I am currently on leave from the [University of Hamburg](https://www.uni-hamburg.de/).
 
 My research focuses on the role of financial markets for the macroeconomy,
