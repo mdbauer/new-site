@@ -26,14 +26,14 @@ with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
 Discussion Paper, November 2022.
 
+**Corporate Green Pledges**  
+with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
+
 **Cross-Sectional Skewness in Interest Rate Surveys**  
 with Mikhail Chernov
 
 **Risk Appetite and the Monetary Transmission**  
 with Maik Schmeling and Andreas Schrimpf
-
-**The Financial Market Response to Green Firm Announcements**  
-with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
 **Changes in the Green Bond Premium**  
 with Kerstin Lopatta, Thomas Tammen, and Ole Wilms
