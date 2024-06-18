@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Welcome to my website! I am a research economist at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) studying monetary policy, macroeconomics and financial markets. In addition, I am a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
+Welcome to my website! I am a research economist at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) studying monetary policy, macroeconomics and financial markets. I am serving as Associate Editor at the [Journal of Financial Econometrics](https://academic.oup.com/jfec). I am also a research fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
 [IMFS](https://www.imfs-frankfurt.de/en.html). I am currently on leave from the [University of Hamburg](https://www.uni-hamburg.de/).
 
 My research focuses on the role of financial markets for the macroeconomy,

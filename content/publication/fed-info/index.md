@@ -20,6 +20,6 @@ links:
   url: "files/fedinfo.pdf"
 - name: Online Appendix
   url: "https://www.aeaweb.org/content/file?id=18258"
-- name: Replication Package
+- name: Code & Data
   url: "https://www.openicpsr.org/openicpsr/project/181661/version/V1/view"
 ---

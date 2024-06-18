@@ -14,9 +14,11 @@ abstract: 'Monetary policy affects financial markets and the broader economy in 
 links:
 - name: Article
   url: https://www.aeaweb.org/articles?id=10.1257/jep.37.1.77
+- name: PDF
+  url: "files/bbm_risk.pdf"
 - name: Online Appendix
-  url: https://www.aeaweb.org/content/file?id=18158
-- name: Replication Package
+  url: "files/bbm_appendix.pdf"
+- name: Code & Data
   url: https://www.openicpsr.org/openicpsr/project/183829/version/V1/view
 - name: Risk Index
   url: files/risk_index.xlsx

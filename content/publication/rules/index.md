@@ -3,12 +3,12 @@
 
 title: "Perceptions about Monetary Policy"
 authors: ["Michael D. Bauer", "Carolin E. Pflueger", "Adi Sunderam"]
-date: 2024-04-09
+date: 2024-06-18
 featured: false
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "*Quarterly Journal of Economics*"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -19,8 +19,10 @@ links:
   url: "files/bps_rules.pdf"
 - name: FRBSF Working Paper
   url: "https://www.frbsf.org/economic-research/publications/working-papers/2023/31/"
-- name: NBER Working Paper
-  url: "https://www.nber.org/papers/w30480"
 - name: CEPR Discussion Paper
   url: "https://cepr.org/publications/dp17758"
+- name: Code & Data
+  url: "files/bps_replication_package.zip"
+- name: Estimated Rules
+  url: "files/bps_bluechip_rules.xlsx"
 ---
