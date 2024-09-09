@@ -27,5 +27,7 @@ abstract: "We document that the Fed's perceived monetary policy response to infl
 links:
 - name: Conference Draft
   url: "files/jh_bps_conference_draft.pdf"
+- name: Conference Agenda and Slides
+  url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
 
 ---
