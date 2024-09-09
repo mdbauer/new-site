@@ -16,15 +16,15 @@ design:
 ---
 
 
+**[Changing Perceptions and Post-Pandemic Monetary Policy](publication/rules-jackson-hole)**  
+with Carolin Pflueger and Adi Sunderam, Conference Draft Jackson Hole Economic Policy Symposium, August 2024.
+
 **[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
 with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
 
 **[Climate Policy Curves: Linking Policy Choices to Climate Outcomes](publication/cpc)**  
 with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
 Discussion Paper, November 2022.
-
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
 
 **Corporate Green Pledges**  
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms

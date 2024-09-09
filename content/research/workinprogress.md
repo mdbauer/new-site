@@ -15,9 +15,6 @@ design:
   
 ---
 
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
-
 **Corporate Green Pledges**  
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
