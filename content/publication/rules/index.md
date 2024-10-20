@@ -16,7 +16,7 @@ abstract: "We estimate perceptions about the Federal Reserve's monetary policy r
 
 links:
 - name: Article
-  url: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjae021/7699086"
+  url: "https://academic.oup.com/qje/article-abstract/139/4/2227/7699086"
 - name: PDF
   url: "files/bps_rules.pdf"
 - name: FRBSF Working Paper

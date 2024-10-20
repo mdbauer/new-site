@@ -45,7 +45,7 @@ Welcome to my website! I am a research economist focusing on monetary economics,
 
 - Senior Research Advisor at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
 - Lecturer at [UC Berkeley, Haas School of Business](https://haas.berkeley.edu/)
-- Associate Editor at the [Journal of Financial Econometrics](https://academic.oup.com/jfec), the [Journal of Business & Economic Statistics](https://www.tandfonline.com/journals/ubes20), and the [Journal of Money, Credit, and Banking](https://onlinelibrary.wiley.com/journal/15384616).
+- Associate Editor at the [Journal of Financial Econometrics](https://academic.oup.com/jfec), the [Journal of Business & Economic Statistics](https://www.tandfonline.com/journals/ubes20), and the [Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/journal/15384616)
 - Research Fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
 [IMFS](https://www.imfs-frankfurt.de/en.html)
 - Steering Committee for the SF Fed's new [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/)
@@ -55,6 +55,11 @@ transition. I am particularly interested in understanding the effects of monetar
 and asset prices---including monetary policy surprises, forward guidance, monetary policy communication,
 quantitative easing, monetary policy uncertainty, and risks to the economic outlook. More recently I've been
 studying issues in climate economics and climate finance, including the pricing of climate risks.
+
+** *News* ** The [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/) (CMR) is a new initiative launched by the San Francisco Fed that aims to improve understanding of the links between monetary policy, financial markets, and the macroeconomy. Among the [CMR data pages](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/data/) are three that make available updated estimates for these papers:
+- [Treasury Yield Skewness](https://www.frbsf.org/research-and-insights/data-and-indicators/treasury-yield-skewness/) (based on 2024 [JF paper](/publication/skewness/) with Chernov)
+- [Monetary Policy Surprises](https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/) (based on 2023 [NBERMA paper](/publication/skewness/) with Swanson)
+- [Monetary Policy Uncertainty](https://www.frbsf.org/research-and-insights/data-and-indicators/market-based-monetary-policy-uncertainty/) (based on 2022 [EJ paper](/publication/monetary-policy-uncertainty) with Lakdawala \& Mueller)
 
 [CV](files/cv_mbauer.pdf) :small_blue_diamond: [Fed Website](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: 
 [Google Scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:

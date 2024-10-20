@@ -15,7 +15,7 @@ design:
   
 ---
 
-**FOMC Communication Events and Monetary Transmission**
+**FOMC Communication Events and Monetary Transmission**   
 with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Monetary Transmission**   
