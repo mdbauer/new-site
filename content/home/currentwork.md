@@ -15,22 +15,14 @@ design:
   
 ---
 
-
-**[The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act](publication/ira)**  
-with Eric Offner and Glenn Rudebusch, Brookings Working Paper, September 2023.
-
-**[Climate Policy Curves: Linking Policy Choices to Climate Outcomes](publication/cpc)**  
-with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch, CEPR
-Discussion Paper, November 2022.
-
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
-
-**Corporate Green Pledges**  
+**[Corporate Green Pledges](/publication/green-pledges)**   
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
-**Green Stocks and Monetary Policy Shocks**  
+**[Green Stocks and Monetary Policy Shocks: Evidence from Europe](/publication/green-mps)**   
 with Eric Offner and Glenn Rudebusch
+
+**FOMC Communication Events and Monetary Transmission**   
+with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Monetary Transmission**   
 with Maik Schmeling and Andreas Schrimpf

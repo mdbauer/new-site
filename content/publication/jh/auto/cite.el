@@ -2,6 +2,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "climate-policy-curves"))
+    "bps-jackson-hole"))
  '(or :bibtex :latex))
 

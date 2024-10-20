@@ -2,6 +2,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "climate-policy-curves"))
- '(or :bibtex :latex))
+    "bauer-etal-carbon-premium"))
+ (quote (or :bibtex :latex)))
 

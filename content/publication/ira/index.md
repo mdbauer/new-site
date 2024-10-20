@@ -3,13 +3,12 @@
 
 title: "The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act"
 authors: ["Michael D. Bauer", "Eric A. Offner", "Glenn D. Rudebusch"]
-date: 2023-09-22
+date: 2024-07-24
 featured: true
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
-publication_short: ""
+publication: "Forthcoming *Advances in Econometrics*"
 
 # Abstract and optional shortened version.
 abstract: "The Inflation Reduction Act of 2022 (IRA) represents the largest climate policy

@@ -15,6 +15,8 @@ publication_short: ""
 abstract: "We estimate perceptions about the Federal Reserve's monetary policy rule from panel data on professional forecasts of interest rates and macroeconomic conditions. The perceived dependence of the federal funds rate on economic conditions varies substantially over time, in particular over the monetary policy cycle. Forecasters update their perceptions about the Fed's policy rule in response to monetary policy actions, measured by high-frequency interest rate surprises, suggesting that they have imperfect information about the rule. Monetary policy perceptions matter for monetary transmission, as they affect the sensitivity of interest rates to macroeconomic news, term premia in long-term bonds, and the response of the stock market to monetary policy surprises. A simple learning model with forecaster heterogeneity and incomplete information about the policy rule motivates and explains our empirical findings."
 
 links:
+- name: Article
+  url: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjae021/7699086"
 - name: PDF
   url: "files/bps_rules.pdf"
 - name: FRBSF Working Paper
@@ -26,3 +28,4 @@ links:
 - name: Estimated Rules
   url: "files/bps_bluechip_rules.xlsx"
 ---
+

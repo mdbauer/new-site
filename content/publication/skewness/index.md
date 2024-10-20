@@ -22,6 +22,6 @@ links:
   url: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13276&file=jofi13276-sup-0001-InternetAppendix.pdf"
 - name: Code & Data
   url: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13276&file=jofi13276-sup-0002-ReplicationCode.zip"
-- name: ISK series
-  url: "files/isk.xlsx"
+- name: Updated Treasury Yield Skewness
+  url: "https://www.frbsf.org/research-and-insights/data-and-indicators/treasury-yield-skewness/"
 ---

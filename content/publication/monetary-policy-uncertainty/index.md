@@ -22,6 +22,6 @@ links:
   url: "files/mpu_online_appendix.pdf"
 - name: Code and Data
   url: "files/mpu_replication_package.zip"
-- name: Daily uncertainty measure
-  url: "files/mpu.csv"
+- name: Updated Uncertainty Measure
+  url: "https://www.frbsf.org/research-and-insights/data-and-indicators/market-based-monetary-policy-uncertainty/"
 ---

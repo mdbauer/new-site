@@ -15,14 +15,8 @@ design:
   
 ---
 
-**Changing Perceptions and Post-Pandemic Monetary Policy**  
-with Carolin Pflueger and Adi Sunderam
-
-**Corporate Green Pledges**  
-with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
-
-**Green Stocks and Monetary Policy Shocks**  
-with Eric Offner and Glenn Rudebusch
+**FOMC Communication Events and Monetary Transmission**
+with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Monetary Transmission**   
 with Maik Schmeling and Andreas Schrimpf

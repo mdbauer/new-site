@@ -23,6 +23,6 @@ links:
   url: "files/mps.pdf"
 - name: Conference Webseite
   url: "https://www.nber.org/conferences/37th-annual-conference-macroeconomics-2022"
-- name: Data FOMC Announcements
-  url: "files/FOMC_Bauer_Swanson.xlsx"
+- name: Updated Monetary Policy Surprises
+  url: "https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/"
 ---
