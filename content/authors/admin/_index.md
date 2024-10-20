@@ -56,14 +56,7 @@ and asset prices---including monetary policy surprises, forward guidance, moneta
 quantitative easing, monetary policy uncertainty, and risks to the economic outlook. More recently I've been
 studying issues in climate economics and climate finance, including the pricing of climate risks.
 
-** *News* ** The [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/) (CMR) is a new initiative launched by the San Francisco Fed that aims to improve understanding of the links between monetary policy, financial markets, and the macroeconomy. Among the [CMR data pages](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/data/) are three that make available updated estimates for these papers:
-- [Treasury Yield Skewness](https://www.frbsf.org/research-and-insights/data-and-indicators/treasury-yield-skewness/) (based on 2024 [JF paper](/publication/skewness/) with Chernov)
-- [Monetary Policy Surprises](https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/) (based on 2023 [NBERMA paper](/publication/skewness/) with Swanson)
-- [Monetary Policy Uncertainty](https://www.frbsf.org/research-and-insights/data-and-indicators/market-based-monetary-policy-uncertainty/) (based on 2022 [EJ paper](/publication/monetary-policy-uncertainty) with Lakdawala \& Mueller)
-
 [CV](files/cv_mbauer.pdf) :small_blue_diamond: [Fed Website](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: 
 [Google Scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:
-[Twitter](https://twitter.com/michaelbauer_hh) :small_blue_diamond:
-[LinkedIn](https://www.linkedin.com/in/michael-bauer-92b114/) :small_blue_diamond:
 [RePeC](https://ideas.repec.org/f/pba824.html) :small_blue_diamond:
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1037079)
