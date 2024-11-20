@@ -15,7 +15,7 @@ design:
   
 ---
 
-**[Corporate Green Pledges](/publication/green-pledges)**   
+**[Corporate Green Pledges](/publication/green-pledges)** :sparkles:***new!***:sparkles:   
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
 **[Green Stocks and Monetary Policy Shocks: Evidence from Europe](/publication/green-mps)**   
