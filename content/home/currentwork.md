@@ -18,7 +18,7 @@ design:
 **[Corporate Green Pledges](/publication/green-pledges)** :sparkles:***new!***:sparkles:   
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms
 
-**[Green Stocks and Monetary Policy Shocks: Evidence from Europe](/publication/green-mps)**   
+**[Green Stocks and Monetary Policy Shocks: Evidence from Europe](/publication/green-mps)** :sparkles:***new!***:sparkles:      
 with Eric Offner and Glenn Rudebusch
 
 **FOMC Communication Events and Monetary Transmission**   
