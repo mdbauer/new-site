@@ -16,6 +16,8 @@ abstract: "We identify corporate commitments for reductions of greenhouse gas em
 links:
 - name: PDF
   url: "files/green_pledges.pdf"
+- name: FRBSF Working Paper
+  url: "https://www.frbsf.org/research-and-insights/publications/working-papers/2024/12/corporate-green-pledges/"
 - name: SSRN Working Paper
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027881"
 ---
