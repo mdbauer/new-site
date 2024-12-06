@@ -18,6 +18,4 @@ links:
   url: "/files/green_mps.pdf"
 - name: Brookings WP
   url: "https://www.brookings.edu/articles/green-stocks-and-monetary-policy-shocks-evidence-from-europe/"
-- name: Conference Agenda
-  url: "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/7th-annual-research-conference-macroeconomic-and-financial-aspects-of-climate-change.html"
 ---
