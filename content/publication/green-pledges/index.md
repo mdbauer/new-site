@@ -16,9 +16,13 @@ abstract: "We identify announcements of corporate commitments for reductions of 
 links:
 - name: PDF
   url: "files/green_pledges.pdf"
-- name: FRBSF Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/research-and-insights/publications/working-papers/2024/12/corporate-green-pledges/"
-- name: SSRN Working Paper
+- name: CEPR DP
+  url: "https://cepr.org/publications/dp19788"
+- name: CESifo WP
+  url: "https://www.cesifo.org/en/publications/2024/working-paper/corporate-green-pledges"
+- name: SSRN WP
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027881"
 ---
 
