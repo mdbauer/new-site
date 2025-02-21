@@ -20,6 +20,8 @@ links:
   url: "files/sdr.pdf"
 - name: Online Appendix
   url: "files/sdr_appendix.pdf"
+- name: Replication Package
+  url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RVJAZF"
 - name: Code & Data
   url: "files/sdr_replication.zip"
 - name: r* estimates
