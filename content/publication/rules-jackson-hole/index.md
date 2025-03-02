@@ -5,10 +5,10 @@ title: "Changing Perceptions and Post-Pandemic Monetary Policy"
 authors: ["Michael D. Bauer", "Carolin E. Pflueger", "Adi Sunderam"]
 date: 2024-08-01
 featured: true
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "*Jackson Hole Economic Policy Symposium*"
+publication: "Forthcoming in *Proceedings of 2024 Jackson Hole Economic Policy Symposium*"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -27,8 +27,6 @@ abstract: "We document that the Fed's perceived monetary policy response to infl
 links:
 - name: PDF
   url: "files/bps_jackson_hole.pdf"
-- name: Pre-Conference Draft
-  url: "files/jh_bps_conference_draft.pdf"
 - name: Conference Agenda and Slides
   url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
 - name: The Economist

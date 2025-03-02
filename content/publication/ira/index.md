@@ -8,7 +8,7 @@ featured: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Forthcoming *Advances in Econometrics*"
+publication: "Forthcoming in *Advances in Econometrics*"
 
 # Abstract and optional shortened version.
 abstract: "The Inflation Reduction Act of 2022 (IRA) represents the largest climate policy

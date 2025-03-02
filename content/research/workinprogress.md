@@ -18,7 +18,7 @@ design:
 **FOMC Communication Events and Monetary Transmission**   
 with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
-**Risk Appetite and the Monetary Transmission**   
+**Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
 with Maik Schmeling and Andreas Schrimpf
 
 **The Response of Prices to Monetary Policy: Firm-Level Evidence from Sweden**  
@@ -26,7 +26,4 @@ with Alexander Czarnota and Mathias Klein
 
 **Effects of Carbon Policies on Inflation Expectations**  
 with Diego Känzig and Glenn Rudebusch
-
-**Cross-Sectional Skewness in Interest Rate Surveys**    
-with Mikhail Chernov
 

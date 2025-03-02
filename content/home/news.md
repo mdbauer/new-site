@@ -15,10 +15,6 @@ design:
   
 ---
 
-:loudspeaker:️ **Call for Papers: 9th Conference on Fixed Income Markets** :loudspeaker: 
-
-Together with the Bank of Canada and the Chicago Fed, we are organizing a [Conference on Fixed Income Research and Implications for Monetary Policy](https://www.frbsf.org/news-and-media/events/conferences/2025/05/fixed-income-research-and-implications-for-monetary-policy-conference-2025/), to be held in San Francisco on May 22-23, 2025. The focus will be on theoretical and empirical issues in fixed income research and how they relate to the conduct of monetary policy. Please send your submissions to [fixed.income.conference@sf.frb.org](mailto:fixed.income.conference@sf.frb.org) by *January 31, 2025*.
-
 :classical_building: **New SF Fed Center for Monetary Research** :classical_building:
 
 The [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/) (CMR) is a new initiative launched by the San Francisco Fed that aims to improve our understanding of the links between monetary policy, financial markets, and the macroeconomy. Among the [CMR data pages](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/data/) are three that make available updated estimates for some of my papers:

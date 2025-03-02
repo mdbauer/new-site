@@ -44,11 +44,12 @@ highlight_name: true
 Welcome to my website! I am a research economist focusing on monetary economics, macro-finance and climate finance.
 
 - Senior Research Advisor at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
+- Director of the [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/) at the SF Fed
 - Lecturer at [UC Berkeley, Haas School of Business](https://haas.berkeley.edu/)
 - Associate Editor at the [Journal of Financial Econometrics](https://academic.oup.com/jfec), the [Journal of Business & Economic Statistics](https://www.tandfonline.com/journals/ubes20), and the [Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/journal/15384616)
 - Research Fellow at [CEPR](https://cepr.org/), [CESifo](https://www.cesifo.org/en), and the
 [IMFS](https://www.imfs-frankfurt.de/en.html)
-- Steering Committee for the SF Fed's new [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/)
+- Senior Research Fellow at the [University of Hamburg](https://www.uni-hamburg.de)
 
 My research mainly studies the role of financial markets for the macroeconomy, monetary policy, and the green
 transition. I am particularly interested in understanding the effects of monetary policy on the yield curve

@@ -20,6 +20,8 @@ with James Hamilton, VoxEU, July 7, 2017.
 
 ### SF Fed Economic Letters
 
+[Current Perceptions about Monetary Policy](https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/02/current-perceptions-about-monetary-policy/), with Carolin Pflueger and Adi Sunderam, February 24, 2025. 
+
 [Monetary Policy and Financial Conditions](https://www.frbsf.org/research-and-insights/publications/economic-letter/2024/03/monetary-policy-and-financial-conditions/), with Zoë Arnaut, March 4, 2024.
 
 [Current Recession Risk According to the Yield Curve](https://www.frbsf.org/economic-research/publications/economic-letter/2022/may/current-recession-risk-according-to-yield-curve/),
