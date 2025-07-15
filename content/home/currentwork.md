@@ -1,4 +1,4 @@
----
+3---
 widget: blank
 headless: true
 
@@ -19,11 +19,7 @@ design:
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms   
 Revise-and-resubmit at *Review of Financial Studies*   
 
-**[Green Stocks and Monetary Policy Shocks: Evidence from Europe](/publication/green-mps)**   
-with Eric Offner and Glenn Rudebusch   
-Forthcoming in *European Economic Review*   
-
-**FOMC Communication Events and Monetary Transmission**   
+**Financial Market Effects of FOMC Communication: Evidence from a New Event-Study Database**   
 with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Macroeconomic Effects of Monetary Policy**   

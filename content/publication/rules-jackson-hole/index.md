@@ -8,7 +8,7 @@ featured: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Forthcoming in *Proceedings of 2024 Jackson Hole Economic Policy Symposium*"
+publication: "*Proceedings of 2024 Jackson Hole Economic Policy Symposium*"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -26,11 +26,15 @@ abstract: "We document that the Fed's perceived monetary policy response to infl
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: PDF
-  url: "files/bps_jackson_hole.pdf"
-- name: Conference Agenda and Slides
+  url: "files/bps_jackson_hole_published.pdf"
+- name: Symposium Website
   url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
+- name: Conference Draft
+  url: "files/bps_jackson_hole_draft.pdf"
 - name: The Economist
   url: "https://www.economist.com/finance-and-economics/2024/08/27/vast-government-debts-are-riskier-than-they-appear"
 - name: Reuters
   url: "https://www.reuters.com/markets/us/feds-actions-spoke-louder-than-words-inflation-fight-research-shows-2024-08-24/"
+- name: The Pie Podcast
+  url: "https://bfi.uchicago.edu/insights/understanding-the-fed-how-perception-drives-market-reactions/"
 ---

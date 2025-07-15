@@ -15,7 +15,7 @@ design:
   
 ---
 
-**FOMC Communication Events and Monetary Transmission**   
+**Financial Market Effects of FOMC Communication: Evidence from a New Event-Study Database**   
 with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Macroeconomic Effects of Monetary Policy**   

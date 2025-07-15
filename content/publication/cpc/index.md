@@ -20,8 +20,6 @@ links:
   url: "files/cpc.pdf"
 - name: "Brookings Working Paper"
   url: "https://www.brookings.edu/research/climate-policy-curves/"
-- name: "CEPR Discussion Paper"
-  url: "https://cepr.org/publications/dp17703"
 ---
 
 

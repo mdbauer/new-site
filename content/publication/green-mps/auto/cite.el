@@ -2,6 +2,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "bauer-etal-carbon-premium"))
- (quote (or :bibtex :latex)))
+    "bauer-green-mps"))
+ '(or :bibtex :latex))
 
