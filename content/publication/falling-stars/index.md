@@ -25,5 +25,8 @@ links:
   url: https://www.openicpsr.org/openicpsr/project/115622/version/V1/view
 - name: Online Appendix
   url: https://www.aeaweb.org/content/file?id=11908
-
+- name: i* Figure 4
+  url: "files/falling-stars-fig4.csv"
+- name: TP Figure 7
+  url: "files/falling-stars-fig7b.csv"
 ---
