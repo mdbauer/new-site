@@ -8,7 +8,7 @@ featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "*Finance and Economics Discussion Series*"
+publication: "FEDS Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.
@@ -17,7 +17,7 @@ abstract: "This paper discusses the measurement, assessment, and communication o
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: FEDS paper
+- name: FEDS Paper
   url: "https://www.federalreserve.gov/econres/feds/accounting-for-uncertainty-and-risks-in-monetary-policy.htm"
 - name: Framework Statement
   url: "https://www.federalreserve.gov/monetarypolicy/monetary-policy-strategy-tools-and-communications-statement-on-longer-run-goals-monetary-policy-strategy-2025.htm"

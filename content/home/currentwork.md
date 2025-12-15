@@ -15,12 +15,12 @@ design:
   
 ---
 
+**[Financial Market Effects of FOMC Communication: Evidence from a New Event-Study Database](/publication/fed-mps)**   
+with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino   
+
 **[Corporate Green Pledges](/publication/green-pledges)**   
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms   
 Revise-and-resubmit at *Review of Financial Studies*   
-
-**Financial Market Effects of FOMC Communication: Evidence from a New Event-Study Database**   
-with Miguel Acosta, Andrea Ajello, Francesca Loria, and Silvia Miranda-Agrippino
 
 **Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
 with Maik Schmeling and Andreas Schrimpf

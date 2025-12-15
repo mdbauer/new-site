@@ -4,6 +4,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "green-pledges"))
+    "acosta-etal"))
  '(or :bibtex :latex))
 

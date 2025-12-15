@@ -2,16 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Corporate Green Pledges"
-authors: ["Michael D. Bauer", "Daniel Huber", "Eric A. Offner", "Marlene Renkel", "Ole Wilms"]
-date: 2024-12-02
+authors: ["Michael D. Bauer", "Daniel Huber", "Eric A. Offner", "Ole Wilms"]
+date: 2025-10-24
 featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "FRBSF Working Paper"
 
 # Abstract and optional shortened version.
-abstract: "We identify announcements of corporate commitments for reductions of greenhouse gas emissions--green pledges--from news articles using a large language model. About 8% of publicly traded U.S. companies have made green pledges, and these companies tend to be larger and browner than those without pledges. Announcements of green pledges significantly and persistently raise stock prices, consistent with reductions in the carbon premium. Firms that make green pledges subsequently reduce their CO2 emissions. Our evidence suggests that green pledges are credible, have material new information for investors, and can reduce perceived transition risk."
+abstract: "We build a novel dataset of timestamped corporate decarbonization commitments---green pledges---for U.S. public firms by classifying news articles with a large language model and human validation. Firms that announce a green pledge tend to be larger and browner than other firms, both within and across industries. Announcements of green pledges significantly and persistently raise stock prices, consistent with a reduction in the carbon premium. Green pledges also predict a sizable decline in future carbon emissions and emission intensities. The effects on stock prices and emissions are strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize."
 
 links:
 - name: PDF
