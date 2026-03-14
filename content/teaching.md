@@ -1,7 +1,7 @@
 ---
 title: 'Teaching'
 author: Michael Bauer
-date: '2021-02-14'
+date: '2026-03-13'
 slug: teaching
 design:
   spacing:
@@ -11,14 +11,12 @@ design:
 
 ### Empirical Asset Pricing, Ph.D. Course, UC Berkeley, Haas School of Business
 
-Together with [Martin Lettau](https://sites.google.com/view/martinlettau/home) I am teaching the 2nd year
+Together with [Martin Lettau](https://sites.google.com/view/martinlettau/home) I taught the 2nd year
 Ph.D. course "Empirical Asset Pricing" at the [Haas School of
-Business](https://haas.berkeley.edu/). Martin teaches the first half of the course, focusing on equity
-markets, predictability of stock returns, and cross-sectional asset pricing. I teach the second half of the
-course, focusing on bond markets, the term structure of interest rates, and macro-finance linkages. This year,
-in 2025, is the second time we're teaching this course together.
+Business](https://haas.berkeley.edu/). Martin's first half of the course focused on equity
+markets, predictability of stock returns, and cross-sectional asset pricing. My half of the course covered bond markets, the term structure of interest rates, and macro-finance linkages. We taught this course together in 2019 and 2025.
 
-{{< icon name="download" pack="fas" >}} [Download syllabus](/files/Syllabus_PHDBA239FC_Part_2.pdf)
+{{< icon name="download" pack="fas" >}} [Download syllabus for 2025](/files/Syllabus_PHDBA239FC_Part_2.pdf)
 
 ### Empirical Methods in Finance, MFE Course, UC Berkeley, Haas School of Business
 

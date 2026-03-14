@@ -1,7 +1,7 @@
 ---
 title: 'Other Publications'
 author: Michael Bauer
-date: '2021-12-31'
+date: '2026-03-13'
 ---
 
 ### Articles (not peer-reviewed)
@@ -9,6 +9,8 @@ date: '2021-12-31'
 [US benefit-cost analysis requires revision](https://www.science.org/doi/10.1126/science.adi5943), with Howard, Sarinsky, Cecot, Cropper, Drupp, Freeman, Gillingham, Gollier, Groom, Li, Livermore, Newell, Pizer, Prest, Rudebusch, Sterner and Wagner, *Science*, Letter, Vol. 380, No. 6647, May 25, 2023.
 
 ### Blog Posts
+
+[The Center for Monetary Research: First Year in Review](https://www.frbsf.org/research-and-insights/blog/sf-fed-blog/2025/10/16/center-for-monetary-research-first-year-in-review/), SF Fed Blog, October 16, 2025.
 
 [Did the Yield Curve Flip? Will the Economy
 Dip?](https://www.frbsf.org/our-district/about/sf-fed-blog/did-yield-curve-flip-will-economy-dip/),

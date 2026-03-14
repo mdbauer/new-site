@@ -18,9 +18,8 @@ design:
 **Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
 with Maik Schmeling and Andreas Schrimpf
 
-**The Response of Prices to Monetary Policy: Firm-Level Evidence from Sweden**  
-with Alexander Czarnota and Mathias Klein
+**News in Fed Speeches**   
+with Sophia Kazinnik and Daniel Wilson
 
-**Effects of Carbon Policies on Inflation Expectations**  
-with Diego Känzig and Glenn Rudebusch
-
+**Heterogeneity of Beliefs and Treasury Bonds**   
+with Adem Atmaz, Andrea Buffa, and Mikhail Chernov
