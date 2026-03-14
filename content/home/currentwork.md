@@ -23,10 +23,10 @@ Revise-and-resubmit at *Journal of Monetary Economics*
 with Daniel Huber, Eric Offner, Marlene Renkel, and Ole Wilms   
 Revise-and-resubmit at *Review of Financial Studies*   
 
-**Prices and Monetary Policy: The Role of Financial Constraints**  
+**[Prices and Monetary Policy: The Role of Financial Constraints](/publication/swedish-firms)**  
 with Alexander Czarnota and Mathias Klein
 
-**Carbon Pricing and Inflation Expectations**  
+**[Carbon Pricing and Inflation Expectations](/publication/carbon-pricing)**  
 with Diego Känzig and Glenn Rudebusch
 
 **Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
