@@ -4,6 +4,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "acosta-etal"))
+    "bkr-carbon-pricing"))
  '(or :bibtex :latex))
 
