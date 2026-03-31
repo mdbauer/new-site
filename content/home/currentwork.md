@@ -37,3 +37,6 @@ with Sophia Kazinnik and Daniel Wilson
 
 **Heterogeneity of Beliefs and Treasury Bonds**   
 with Adem Atmaz, Andrea Buffa, and Mikhail Chernov
+
+**Inflation Expectations and Monetary Transmission**   
+with Eric Offner

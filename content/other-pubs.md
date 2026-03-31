@@ -22,6 +22,8 @@ with James Hamilton, VoxEU, July 7, 2017.
 
 ### SF Fed Economic Letters
 
+[Fed Communications and Inflation Expectations](https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/03/fed-communications-and-inflation-expectations/), with Wesley Wasserburger, March 31, 2026.
+
 [Current Perceptions about Monetary Policy](https://www.frbsf.org/research-and-insights/publications/economic-letter/2025/02/current-perceptions-about-monetary-policy/), with Carolin Pflueger and Adi Sunderam, February 24, 2025. 
 
 [Monetary Policy and Financial Conditions](https://www.frbsf.org/research-and-insights/publications/economic-letter/2024/03/monetary-policy-and-financial-conditions/), with Zoë Arnaut, March 4, 2024.
