@@ -15,7 +15,7 @@ abstract: "Policymakers and researchers, notably in Europe, have expressed conce
 
 links:
 - name: Article
-  url: "https://www.sciencedirect.com/science/article/pii/S0014292125000947"
+  url: "https://doi.org/10.1016/j.euroecorev.2025.105044"
 - name: PDF
   url: "/files/green_mps.pdf"
 - name: FRBSF Working Paper

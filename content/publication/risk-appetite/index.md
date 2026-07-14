@@ -3,7 +3,7 @@
 
 title: "Risk Appetite and Monetary Transmission"
 authors: ["Michael Bauer", "Maik Schmeling", "Andreas Schrimpf"]
-date: 2026-05-06
+date: 2026-07-14
 featured: true
 publication_types: ["3"]
 
