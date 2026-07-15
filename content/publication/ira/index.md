@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Effect of U.S. Climate Policy on Financial Markets: An Event Study of the Inflation Reduction Act"
-authors: ["Michael D. Bauer", "Eric A. Offner", "Glenn D. Rudebusch"]
+authors: ["Michael Bauer", "Eric Offner", "Glenn Rudebusch"]
 date: 2026-05-01
 featured: true
 publication_types: ["2"]
@@ -28,8 +28,8 @@ links:
   url: "https://doi.org/10.1108/S0731-90532026000047A003"
 - name: PDF
   url: "files/ira.pdf"
-- name: FRBSF Working Paper
+- name: "FRBSF WP"
   url: "https://www.frbsf.org/economic-research/publications/working-papers/2023/30/"
-- name: Brookings Working Paper
+- name: "Brookings WP"
   url: "https://www.brookings.edu/articles/the-effect-of-u-s-climate-policy-on-financial-markets-an-event-study-of-the-inflation-reduction-act/"
 ---

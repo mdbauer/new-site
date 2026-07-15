@@ -5,6 +5,7 @@ bio: My research areas are monetary economics, macro-finance, and climate financ
 interests:
   - Monetary Economics
   - Macro-Finance
+  - Asset Pricing
   - Climate Finance
 social:
   - icon: envelope

@@ -16,6 +16,7 @@ abstract: "Firm heterogeneity in financial constraints is a quantitatively impor
 links: 
 - name: "PDF"
   url: "/files/swedish-firms.pdf"
-
+- name: "CEPR DP"
+  url: "https://cepr.org/publications/dp21748"
 ---
 
