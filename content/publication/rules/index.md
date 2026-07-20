@@ -19,7 +19,7 @@ links:
   url: "https://academic.oup.com/qje/article-abstract/139/4/2227/7699086"
 - name: PDF
   url: "files/bps_rules.pdf"
-- name: FRBSF Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/economic-research/publications/working-papers/2023/31/"
 - name: CEPR Discussion Paper
   url: "https://cepr.org/publications/dp17758"

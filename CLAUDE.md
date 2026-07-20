@@ -25,7 +25,7 @@ hugo-old.exe --gc --minify --buildFuture
 
 - **Live URL**: https://www.michaeldbauer.com
 - **Host**: Netlify
-- **GitHub repo**: `mdbauer/new-site`
+- **GitHub repo**: `mdbauer/website-wowchemy`
 - **Deploy trigger**: Pushing to `master` triggers automatic Netlify builds
 - **Hugo version on Netlify**: 0.108.0 (pinned in `netlify.toml`)
 - **Deploy previews**: Build with `--buildFuture` to include draft/future-dated content

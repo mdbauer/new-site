@@ -13,7 +13,7 @@ abstract: "A consensus has recently emerged that variables beyond the level, slo
 links:
 - name: Article
   url: "https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhx096/4210006"
-- name: Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/economic-research/files/wp2015-15.pdf"
 - name: Code & Data
   url: "files/bauer_hamilton_robust_replication.zip"

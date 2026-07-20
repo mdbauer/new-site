@@ -14,7 +14,7 @@ abstract: "Restrictions on the risk-pricing in dynamic term structure models (DT
 links:
 - name: Article
   url: "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"
-- name: Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"
 - name: Online Appendix
   url: "https://www.frbsf.org/economic-research/files/rrp_appendix.pdf"

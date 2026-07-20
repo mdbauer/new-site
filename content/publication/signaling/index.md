@@ -26,7 +26,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "http://www.ijcb.org/journal/ijcb14q3a7.pdf"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/files/wp11-21bk.pdf"}]
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/files/wp11-21bk.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

@@ -25,7 +25,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12177/abstract"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-20bk.pdf"},
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-20bk.pdf"},
 {name = "Code & Data", url = "/files/bauer_news_replication.zip"}]
 
 # Does this page contain LaTeX math? (true/false)

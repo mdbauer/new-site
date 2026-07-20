@@ -18,7 +18,7 @@ links:
   url: "https://doi.org/10.1016/j.euroecorev.2025.105044"
 - name: PDF
   url: "/files/green_mps.pdf"
-- name: FRBSF Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/research-and-insights/publications/working-papers/2024/12/green-stocks-and-monetary-policy-shocks-evidence-from-europe/"
 - name: Code & Data
   url: "/files/green_mps_replication_package.zip"

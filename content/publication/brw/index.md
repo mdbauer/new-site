@@ -24,7 +24,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "http://www.tandfonline.com/doi/abs/10.1080/07350015.2012.693855"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-12bk.pdf"},
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-12bk.pdf"},
 {name = "Online Appendix", url = "https://www.frbsf.org/economic-research/files/brw_appendix.pdf"},
 {name = "Code & Data", url = "/files/brw_replication.zip"}]
 

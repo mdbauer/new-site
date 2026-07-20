@@ -17,7 +17,7 @@ links:
 - name: Article
   url: "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13276"
 - name: PDF
-  url: "files/bc_skew.pdf"
+  url: "files/BC_Skew.pdf"
 - name: Online Appendix
   url: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13276&file=jofi13276-sup-0001-InternetAppendix.pdf"
 - name: Code & Data

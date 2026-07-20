@@ -31,7 +31,7 @@ projects = []
 
 # Links (optional).
 links = [{name = "Article", url = "http://www.ijcb.org/journal/ijcb15q2a1.pdf"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2014-09.pdf"}]
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2014-09.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

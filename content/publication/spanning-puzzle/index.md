@@ -31,7 +31,7 @@ projects = []
 
 # Links (optional).
 links = [{name = "Article", url = "http://rof.oxfordjournals.org/content/early/2016/10/07/rof.rfw044.abstract"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2015-01.pdf"},
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2015-01.pdf"},
 {name = "Code & Data", url = "/files/bauer_rudebusch_spanning_replication.zip"}]
 
 # Does this page contain LaTeX math? (true/false)

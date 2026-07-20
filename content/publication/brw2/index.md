@@ -25,7 +25,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "https://www.aeaweb.org/articles.php?doi=10.1257/aer.104.1.323"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/economists/brw2_working_paper.pdf"},
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/economists/brw2_working_paper.pdf"},
 {name = "Code & Data", url = "/files/brw2_replication.zip"}]
 
 # Does this page contain LaTeX math? (true/false)

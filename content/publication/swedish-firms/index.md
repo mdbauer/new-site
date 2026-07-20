@@ -16,6 +16,8 @@ abstract: "Firm heterogeneity in financial constraints is a quantitatively impor
 links: 
 - name: "PDF"
   url: "/files/swedish-firms.pdf"
+- name: "FRBSF WP"
+  url: "https://www.frbsf.org/research-and-insights/publications/working-papers/2026/07/prices-and-monetary-policy-the-role-of-financial-constraints/"
 - name: "CEPR DP"
   url: "https://cepr.org/publications/dp21748"
 ---

@@ -22,7 +22,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12338/full"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"},
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"},
 {name = "Code & Data", url = "/files/bauer_rudebusch_zlb_replication.zip"},
 {name = "Shadow Rates", url = "https://www.frbsf.org/economic-research/economists/shadow_rates.csv"}]
 

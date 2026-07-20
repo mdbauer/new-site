@@ -19,7 +19,7 @@ abstract: "Macro-finance theory implies that trend inflation and the equilibrium
 links:
 - name: Article
   url: "https://www.aeaweb.org/articles?id=10.1257/aer.20171822"
-- name: Working Paper
+- name: FRBSF WP
   url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
 - name: Replication Package
   url: https://www.openicpsr.org/openicpsr/project/115622/version/V1/view

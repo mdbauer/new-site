@@ -25,7 +25,7 @@ selected = false
 
 # Links (optional).
 links = [{name = "Article", url = "http://www.sciencedirect.com/science/article/pii/S0261560614000047"},
-{name = "Working Paper", url = "https://www.frbsf.org/economic-research/files/wp12-12bk.pdf"}]
+{name = "FRBSF WP", url = "https://www.frbsf.org/economic-research/files/wp12-12bk.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
